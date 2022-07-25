@@ -20,4 +20,4 @@ https://medium.com/@ld1847/automation-risk-for-arizonas-transportation-jobs-5153
 - Get the data files (csv.) in the git repository or via the links in the *Data Summary* section
 - Set up a local virtual environment 
     - This code runs on the *JupyterNotebook*
-- Run the codes in the git repository 
+- Run the code file in the git repository 
