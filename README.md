@@ -5,7 +5,7 @@ Luyu Du | NYU Robert F. Wagner Graduate School of Public Service | July 2022
 https://medium.com/@ld1847/automation-risk-for-arizonas-transportation-jobs-515311a5c7b4
 ## Project Summary
 ### Primary research question:   
-  As of 2021, how is automation threatening Arizona’s jobs in the transportation sector?   
+  How is automation threatening Arizona’s jobs in the transportation sector as of 2021?   
 ### Additional research questions:  
 1. What are the percentages of transportation jobs that are at high, medium, and low automation risks?  
 2. Within the transportation industry, who is more likely to be impacted by automation (sex, race and ethnicity, age, education, and annual median wage)?   
