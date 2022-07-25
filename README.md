@@ -16,5 +16,5 @@ Luyu Du | NYU Robert F. Wagner Graduate School of Public Service | July 2022
 ## How to Reproduce This Analysis
 - Get the data files (csv.) in the git repository or via the links in the *Data Summary* section
 - Set up a local virtual environment 
-    - This code runs on the JupyterNotebook
+    - This code runs on the *JupyterNotebook
 - Run the codes in the git repository 
